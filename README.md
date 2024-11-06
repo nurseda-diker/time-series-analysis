@@ -4,7 +4,9 @@ A time series is a data set of observations collected at regular intervals. Time
 Time series have three basic components:
 * **Trend** : The long-term direction of the data (upward or downward)
 * **Seasonality** : Repeating fluctuations over specific periods (e.g. seasonal effects)
-* **Residual** :  Irregular fluctuations not explained by the trend and seasonality
+* **Residual** :  Irregular fluctuations not explained by the trend and seasonality <br>
+
+Future predictions can be made with the information obtained from time series and help organizations make strategic decisions.
 
 ## About Project
 In this project, analysis and future price predictions were made based on features such as open, close, high, low and volume in the stock data set. <br>
