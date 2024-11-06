@@ -16,7 +16,7 @@ The analysis of the data set includes the following steps:
 * Understanding and Summarizing the Dataset
 * Data Preprocessing and Visualization
 * Outlier Detection
-* Stationarity
+* Stationarity Check
   - Differentiating
   - ADF Test
 * ACF (Autocorrelation Function) and PACF (Partial Autocorrelation Function)
